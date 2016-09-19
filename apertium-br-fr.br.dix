@@ -1557,7 +1557,6 @@
       <e><p><l>antezed</l><r>ant<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
-
     <pardef n="kumuniezh__n">
       <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>où</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
@@ -1626,6 +1625,13 @@
       <e><p><l>estr</l><r>estr<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>estroù</l><r>estr<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
       <e><p><l>istri</l><r>estr<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    </pardef>
+	
+	<pardef n="l/egestr__n">
+      <e><p><l>egestr</l><r>egestr<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>egestri</l><r>egestr<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>egistri</l><r>egestr<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>igistri</l><r>egestr<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="l/amm__n">
@@ -2223,6 +2229,7 @@
       <e r="LR"><par n="initial-g"/><p><l>aroù</l><r>ar<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
       <e r="LR"><par n="initial-d__null"/><p><l>ivesker</l><r>gar<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
       <e><par n="initial-d__null"/><p><l>ivc’har</l><r>gar<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+	  <e><par n="initial-d__null"/><p><l>ivhar</l><r>gar<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="pl/anken__n">
@@ -7977,6 +7984,7 @@
     <e lm="kevatalded"><par n="initial-k"/><i>evatalded</i><par n="feiz__n"/></e>
     <e lm="kevezusted"><par n="initial-k"/><i>evezusted</i><par n="feiz__n"/></e>
     <e lm="kounnar"><par n="initial-k"/><i>ounnar</i><par n="feiz__n"/></e>
+    <e lm="kozhni"><par n="initial-k"/><i>ozhni</i><par n="feiz__n"/></e>
     <e lm="kristeniezh"><par n="initial-k"/><i>risteniezh</i><par n="feiz__n"/></e>
     <e lm="kuriusted"><par n="initial-k"/><i>uriusted</i><par n="feiz__n"/></e>
     <e lm="kurun"><par n="initial-k"/><i>urun</i><par n="feiz__n"/></e>
@@ -8067,6 +8075,7 @@
     <e lm="flourdiliz"><i>flourdiliz</i><par n="gwez__n"/></e>
     <e lm="fritez"><i>fritez</i><par n="gwez__n"/></e>
     <e lm="frouezh"><i>frouezh</i><par n="gwez__n"/></e>
+    <e lm="galetez"><par n="initial-g"/><i>aletez</i><par n="gwez__n"/></e>	
     <e lm="galfrez"><par n="initial-g"/><i>alfrez</i><par n="gwez__n"/></e>	
     <e lm="gen"><par n="initial-g"/><i>en</i><par n="gwez__n"/></e>	
     <e lm="geot"><par n="initial-g"/><i>eot</i><par n="gwez__n"/></e>	
@@ -8111,6 +8120,7 @@
     <e lm="kinvi"><par n="initial-k"/><i>invi</i><par n="gwez__n"/></e>
     <e lm="kistin"><par n="initial-k"/><i>istin</i><par n="gwez__n"/></e>
     <e lm="klogor"><par n="initial-k"/><i>logor</i><par n="gwez__n"/></e>
+    <e lm="kornichon"><par n="initial-k"/><i>ornichon</i><par n="gwez__n"/></e>
     <e lm="korz"><par n="initial-k"/><i>orz</i><par n="gwez__n"/></e>
     <e lm="koumoul"><par n="initial-k"/><i>oumoul</i><par n="gwez__n"/></e>
     <e lm="kourjetez"><par n="initial-k"/><i>ourjetez</i><par n="gwez__n"/></e>
@@ -8450,6 +8460,7 @@
     <e lm="fouzhlec’h"><i>fouzhlec’h</i><par n="priz__n"/></e>
     <e lm="frankizadur"><i>frankizadur</i><par n="priz__n"/></e>
     <e lm="fraoñverezh"><i>fraoñverezh</i><par n="priz__n"/></e>
+	<e lm="frazennadur "><i>frazennadur </i><par n="priz__n"/></e>
     <e lm="freskter"><i>freskter</i><par n="priz__n"/></e>
     <e lm="frotadur"><i>frotadur</i><par n="priz__n"/></e>
     <e lm="froterezh"><i>froterezh</i><par n="priz__n"/></e>
@@ -8634,6 +8645,7 @@
     <e lm="luc’hvanner"><i>luc’hvanner</i><par n="priz__n"/></e>
     <e lm="lun"><i>lun</i><par n="priz__n"/></e>
     <e lm="lunvezh"><i>lunvezh</i><par n="priz__n"/></e>
+    <e lm="luz"><i>luz</i><par n="priz__n"/></e>
     <e lm="magneto"><par n="initial-m"/><i>agneto</i><par n="priz__n"/></e>
     <e lm="maner"><par n="initial-m"/><i>aner</i><par n="priz__n"/></e>
     <e lm="marchosi"><par n="initial-m"/><i>archosi</i><par n="priz__n"/></e>
@@ -9433,6 +9445,7 @@
     <e lm="flemm"><i>flemm</i><par n="si__n"/></e>
     <e lm="foenn"><i>foenn</i><par n="si__n"/></e>
     <e lm="foet"><i>foet</i><par n="si__n"/></e>
+    <e lm="fok"><i>fok</i><par n="si__n"/></e>
     <e lm="folklor"><i>folklor</i><par n="si__n"/></e>	
     <e lm="folkloraj"><i>folkloraj</i><par n="si__n"/></e>	
     <e lm="fonem"><i>fonem</i><par n="si__n"/></e>
@@ -10031,6 +10044,7 @@
     <e lm="piler"><par n="initial-p"/><i>iler</i><par n="si__n"/></e>
     <e lm="pilerad"><par n="initial-p"/><i>ilerad</i><par n="si__n"/></e>
     <e lm="piloch"><par n="initial-p"/><i>iloch</i><par n="si__n"/></e>
+	<e lm="piñsad"><par n="initial-p"/><i>iñsad</i><par n="si__n"/></e>
     <e lm="piñsin"><par n="initial-p"/><i>iñsin</i><par n="si__n"/></e>
     <e lm="pirc’hirinaj"><par n="initial-p"/><i>irc’hirinaj</i><par n="si__n"/></e>
     <e lm="plad"><par n="initial-p"/><i>lad</i><par n="si__n"/></e>
@@ -10171,6 +10185,7 @@
     <e lm="sac’had glaou"><i>sac’had</i><par n="si__n"/><p><l><b/>glaou</l><r><g><b/>glaou</g></r></p></e>	
     <e lm="saga"><i>saga</i><par n="si__n"/></e>
     <e lm="sailh"><i>sailh</i><par n="si__n"/></e>
+    <e lm="saladennouer"><i>saladennouer</i><par n="si__n"/></e>
     <e lm="salud"><i>salud</i><par n="si__n"/></e>
     <e lm="samieg"><i>samieg</i><par n="si__n"/></e>
     <e lm="sammad"><i>sammad</i><par n="si__n"/></e>
@@ -10429,6 +10444,7 @@
     <e lm="urzhaz"><i>urzhaz</i><par n="si__n"/></e>
     <e lm="urzhiad"><i>urzhiad</i><par n="si__n"/></e>
     <e lm="vaksin"><i>vaksin</i><par n="si__n"/></e>
+    <e lm="vanilhez"><i>vanilhez</i><par n="si__n"/></e>
     <e lm="verb"><i>verb</i><par n="si__n"/></e>
     <e lm="vi"><i>vi</i><par n="si__n"/></e>
     <e lm="vi-koukoug"><i>vi</i><par n="si__n"/><p><l>-koukoug</l><r><g>-koukoug</g></r></p></e>
@@ -11234,6 +11250,7 @@
     <e lm="ailhenn"><i>ailhenn</i><par n="sae__n"/></e>	
     <e lm="ajañs"><i>ajañs</i><par n="sae__n"/></e>
 	<e lm="ajañs diorren"><i>ajañs</i><par n="sae__n"/><p><l><b/>diorren</l><r><g><b/>diorren</g></r></p></e>	
+    <e lm="alkimiezh"><i>alkimiezh</i><par n="sae__n"/></e>
     <e lm="alumenn"><i>alumenn</i><par n="sae__n"/></e>
 	<e lm="alumenn vioù" r="LR"><i>alumenn</i><par n="sae__n"/><p><l><b/>vioù</l><r><g><b/>vioù</g></r></p></e>	
     <e lm="aluzen"><i>aluzen</i><par n="sae__n"/></e>
@@ -11311,6 +11328,7 @@
     <e lm="bolotenn"><par n="initial-b"/><i>olotenn</i><par n="sae__n"/></e>
     <e lm="bolzenn"><par n="initial-b"/><i>olzenn</i><par n="sae__n"/></e>
     <e lm="bolzwareg"><par n="initial-b"/><i>olzwareg</i><par n="sae__n"/></e>
+    <e lm="bombañs"><par n="initial-b"/><i>ombañs</i><par n="sae__n"/></e>
     <e lm="bombard"><par n="initial-b"/><i>ombard</i><par n="sae__n"/></e>
     <e lm="bombezenn"><par n="initial-b"/><i>ombezenn</i><par n="sae__n"/></e>
     <e lm="bonreizh"><par n="initial-b"/><i>onreizh</i><par n="sae__n"/></e>
@@ -12337,6 +12355,7 @@
     <e lm="parrez"><par n="initial-p"/><i>arrez</i><par n="kentel__n"/></e>
     <e lm="parrouz"><par n="initial-p"/><i>arrouz</i><par n="kentel__n"/></e>
     <e lm="peskerezh"><par n="initial-p"/><i>eskerezh</i><par n="kentel__n"/></e>
+    <e lm="pezel"><par n="initial-p"/><i>ezel</i><par n="kentel__n"/></e>
     <e lm="piñsetez"><par n="initial-p"/><i>iñsetez</i><par n="kentel__n"/></e>
     <e lm="pivelezh"><par n="initial-p"/><i>ivelezh</i><par n="kentel__n"/></e>
     <e lm="plaverez"><par n="initial-p"/><i>laverez</i><par n="kentel__n"/></e>
@@ -12533,6 +12552,7 @@
 
     <e lm="kastell"><par n="initial-k"/><i/><par n="k/astell__n"/></e>
     <e lm="kastell-kreñv"><par n="initial-k"/><i/><par n="k/astell__n"/><p><l>-kreñv</l><r><g>-kreñv</g></r></p></e>
+
     <e lm="kastiz"><par n="initial-k"/><i>astiz</i><par n="si__n"/></e>
     <e lm="kavadenn"><par n="initial-k"/><i>avadenn</i><par n="sae__n"/></e>
     <e lm="kazeg"><par n="initial-k"/><i></i><par n="k/azeg__n"/></e>
@@ -12570,6 +12590,8 @@
     <e lm="lestr"><i>l</i><par n="l/estr__n"/></e>
     <e lm="lestr brezel"><i>l</i><par n="l/estr__n"/><p><l><b/>brezel</l><r><g><b/>brezel</g></r></p></e>
     <e lm="sammlestr"><i>samml</i><par n="l/estr__n"/></e>
+	
+	<e lm="legestr"><i>l</i><par n="l/egestr__n"/></e>
 	
     <e lm="manac’h"><par n="initial-m"/><i/><par n="m/anac’h__n"/></e>
 
@@ -17075,6 +17097,7 @@
     <e lm="Ar Menez Du"><par n="P__ar_er"/><i><b/>Menez<b/>Du</i><par n="Roazhon__np"/></e>
     <e lm="Ar Mor Bihan"><par n="P__ar_er"/><i><b/>Mor<b/>Bihan</i><par n="Roazhon__np"/></e>
     <e lm="Ar Pennele"><par n="P__ar_er"/><i><b/>Pennele</i><par n="Roazhon__np"/></e>
+    <e lm="Ar Reünion"><par n="P__ar_er"/><i><b/>Reünion</i><par n="Roazhon__np"/></e>
     <e lm="Ar Ribl"><par n="P__ar_er"/><i><b/>Ribl</i><par n="Roazhon__np"/></e>
     <e lm="Ar Riwal"><par n="P__ar_er"/><i><b/>Riwal</i><par n="Roazhon__np"/></e>
     <e lm="Ar Ruskad"><par n="P__ar_er"/><i><b/>Ruskad</i><par n="Roazhon__np"/></e>
@@ -17408,6 +17431,7 @@
     <e lm="Roudouz Kerc’haro"><i>Roudouz<b/>Kerc’haro</i><par n="Roazhon__np"/></e>
     <e lm="Roudouz Pont Karvan"><i>Roudouz<b/>Pont<b/>Karvan</i><par n="Roazhon__np"/></e>
     <e lm="Roz"><i>Roz</i><par n="Roazhon__np"/></e>
+    <e lm="Roc'h Tredudon"><i>Roc'h<b/>Tredudon</i><par n="Roazhon__np"/></e>
     <e lm="Rozed"><i>Rozed</i><par n="Roazhon__np"/></e>
     <e lm="Runioù"><i>Runioù</i><par n="Roazhon__np"/></e>
     <e lm="Sal"><i>Sal</i><par n="Roazhon__np"/></e>
@@ -17524,6 +17548,7 @@
     <e lm="Berne"><par n="initial-B"/><i>erne</i><par n="Roazhon__np"/></e>
     <e lm="Berrien"><par n="initial-B"/><i>errien</i><par n="Roazhon__np"/></e>
     <e lm="Berrig"><par n="initial-B"/><i>errig</i><par n="Roazhon__np"/></e>
+    <e lm="Beuzeg"><par n="initial-B"/><i>euzeg</i><par n="Roazhon__np"/></e>
     <e lm="Beuzeg-ar-C’hab"><par n="initial-B"/><i>euzeg-ar-C’hab</i><par n="Roazhon__np"/></e>
     <e lm="Beuzid-an-Doured"><par n="initial-B"/><i>euzid-an-Doured</i><par n="Roazhon__np"/></e>
     <e lm="Beuzid-ar-C’hoadoù"><par n="initial-B"/><i>euzid-ar-C’hoadoù</i><par n="Roazhon__np"/></e>
@@ -18963,6 +18988,7 @@
     <e lm="Albane"><i>Albane</i><par n="Añjela__np"/></e>	
     <e lm="Alice"><i>Alice</i><par n="Añjela__np"/></e>	
     <e lm="Aline"><i>Aline</i><par n="Añjela__np"/></e>	
+    <e lm="Alma"><i>Alma</i><par n="Añjela__np"/></e>	
     <e lm="Alwena"><i>Alwena</i><par n="Añjela__np"/></e>	
     <e lm="Ameli"><i>Ameli</i><par n="Añjela__np"/></e>
     <e lm="Amélie"><i>Amélie</i><par n="Añjela__np"/></e>
@@ -18991,6 +19017,7 @@
     <e lm="Barbara"><par n="initial-B"/><i>arbara</i><par n="Añjela__np"/></e>
     <e lm="Bécassine"><par n="initial-B"/><i>écassine</i><par n="Añjela__np"/></e>
     <e lm="Bernadette"><par n="initial-B"/><i>ernadette</i><par n="Añjela__np"/></e>
+	<e lm="Beyonce"><par n="initial-B"/><i>eyonce</i><par n="Añjela__np"/></e>
     <e lm="Bleuenn"><par n="initial-B"/><i>leuenn</i><par n="Añjela__np"/></e>
     <e lm="Brigitte"><par n="initial-B"/><i>rigitte</i><par n="Añjela__np"/></e>
     <e lm="Camille"><i>Camille</i><par n="Añjela__np"/></e>
@@ -19009,7 +19036,9 @@
     <e lm="Chantal"><i>Chantal</i><par n="Añjela__np"/></e>
     <e lm="Charlotte"><i>Charlotte</i><par n="Añjela__np"/></e>
     <e lm="Chloé"><i>Chloé</i><par n="Añjela__np"/></e>
-    <e lm="Christiane"><i>Christiane</i><par n="Añjela__np"/></e>	
+    <e lm="Christelle"><i>Christelle</i><par n="Añjela__np"/></e>
+    <e lm="Christiane"><i>Christiane</i><par n="Añjela__np"/></e>
+	<e lm="Christine"><i>Christine</i><par n="Añjela__np"/></e>	
     <e lm="Claire"><i>Claire</i><par n="Añjela__np"/></e>	
     <e lm="Clara"><i>Clara</i><par n="Añjela__np"/></e>
     <e lm="Claudie"><i>Claudie</i><par n="Añjela__np"/></e>	
@@ -19029,11 +19058,17 @@
     <e lm="Dora"><par n="initial-D"/><i>ora</i><par n="Añjela__np"/></e>	
     <e lm="Edith"><i>Edith</i><par n="Añjela__np"/></e>	
     <e lm="Elen"><i>Elen</i><par n="Añjela__np"/></e>	
+    <e lm="Elene"><i>Elene</i><par n="Añjela__np"/></e>	
     <e lm="Elena"><i>Elena</i><par n="Añjela__np"/></e>	
+    <e lm="Eliane"><i>Eliane</i><par n="Añjela__np"/></e>	
 	<e lm="Eliz"><i>Eliz</i><par n="Añjela__np"/></e>
 	<e lm="Elodie"><i>Elodie</i><par n="Añjela__np"/></e>
-    <e lm="Enora"><i>Enora</i><par n="Añjela__np"/></e>	
+	<e lm="Emeline"><i>Emeline</i><par n="Añjela__np"/></e>	
+	<e lm="Emma"><i>Emma</i><par n="Añjela__np"/></e>	
+    <e lm="Enora"><i>Enora</i><par n="Añjela__np"/></e>
+	<e lm="Erell"><i>Erell</i><par n="Añjela__np"/></e>	
     <e lm="Fabienne"><i>Fabienne</i><par n="Añjela__np"/></e>	
+	<e lm="Fanny"><i>Fanny</i><par n="Añjela__np"/></e>	
     <e lm="Fant"><i>Fant</i><par n="Añjela__np"/></e>	
     <e lm="Fantig"><i>Fantig</i><par n="Añjela__np"/></e>	
     <e lm="Florence"><i>Florence</i><par n="Añjela__np"/></e>
@@ -19043,6 +19078,7 @@
     <e lm="Gaelle"><par n="initial-G"/><i>aelle</i><par n="Añjela__np"/></e>
     <e lm="Gaëlle"><par n="initial-G"/><i>aëlle</i><par n="Añjela__np"/></e>
     <e lm="Geneviève"><par n="initial-G"/><i>eneviève</i><par n="Añjela__np"/></e>
+	<e lm="Georgette"><par n="initial-G"/><i>eorgette</i><par n="Añjela__np"/></e>
     <e lm="Gisèle"><par n="initial-G"/><i>isèle</i><par n="Añjela__np"/></e>
     <e lm="Gloria"><par n="initial-G"/><i>loria</i><par n="Añjela__np"/></e>
     <e lm="Grace"><par n="initial-G"/><i>race</i><par n="Añjela__np"/></e>
@@ -19070,8 +19106,10 @@
     <e lm="Jenovefa"><i>Jenovefa</i><par n="Añjela__np"/></e>
     <e lm="Joelle"><i>Joelle</i><par n="Añjela__np"/></e>
     <e lm="Johanna"><i>Johanna</i><par n="Añjela__np"/></e>
+    <e lm="Joséphine"><i>Joséphine</i><par n="Añjela__np"/></e>
     <e lm="Josette"><i>Josette</i><par n="Añjela__np"/></e>
     <e lm="Judith"><i>Judith</i><par n="Añjela__np"/></e>
+	<e lm="Julia"><i>Julie</i><par n="Añjela__np"/></e>
     <e lm="Julie"><i>Julie</i><par n="Añjela__np"/></e>
     <e lm="Juliette"><i>Juliette</i><par n="Añjela__np"/></e>
     <e lm="Katell"><par n="initial-K"/><i>atell</i><par n="Añjela__np"/></e>
@@ -19083,8 +19121,11 @@
     <e lm="Korin"><par n="initial-K"/><i>orin</i><par n="Añjela__np"/></e>
     <e lm="Koulmig"><par n="initial-K"/><i>oulmig</i><par n="Añjela__np"/></e>
     <e lm="Koupaia"><par n="initial-K"/><i>oupaia</i><par n="Añjela__np"/></e>
+	<e lm="Kristell"><par n="initial-K"/><i>ristell</i><par n="Añjela__np"/></e>
     <e lm="Kristen"><par n="initial-K"/><i>risten</i><par n="Añjela__np"/></e>
     <e lm="Kristen Noguès"><i>Kristen<b/>Noguès</i><par n="Añjela__np"/></e>
+	<e lm="Kristin"><par n="initial-K"/><i>ristin</i><par n="Añjela__np"/></e>
+	<e lm="Kristina"><par n="initial-K"/><i>ristina</i><par n="Añjela__np"/></e>
     <e lm="Laetitia"><i>Laetitia</i><par n="Añjela__np"/></e>
     <e lm="Laura"><i>Laura</i><par n="Añjela__np"/></e>
     <e lm="Laure"><i>Laure</i><par n="Añjela__np"/></e>
@@ -19093,7 +19134,8 @@
     <e lm="Lena"><i>Lena</i><par n="Añjela__np"/></e>
     <e lm="Lilwenn"><i>Lilwenn</i><par n="Añjela__np"/></e>
     <e lm="Lina"><i>Lina</i><par n="Añjela__np"/></e>
-    <e lm="Liza"><i>Liza</i><par n="Añjela__np"/></e>
+    <e lm="Lisa"><i>Lisa</i><par n="Añjela__np"/></e>
+	<e lm="Liza"><i>Liza</i><par n="Añjela__np"/></e>
     <e lm="Lizig"><i>Lizig</i><par n="Añjela__np"/></e>	
     <e lm="Lleuwen"><i>Lleuwen</i><par n="Añjela__np"/></e>	
     <e lm="Loeiza"><i>Loeiza</i><par n="Añjela__np"/></e>
@@ -19106,6 +19148,8 @@
     <e lm="Maëlle"><par n="initial-M"/><i>aëlle</i><par n="Añjela__np"/></e>
     <e lm="Magalie"><par n="initial-M"/><i>agalie</i><par n="Añjela__np"/></e>
     <e lm="Maï"><par n="initial-M"/><i>aï</i><par n="Añjela__np"/></e>
+	<e lm="Maia"><par n="initial-M"/><i>aia</i><par n="Añjela__np"/></e>
+	<e lm="Maïa"><par n="initial-M"/><i>aïa</i><par n="Añjela__np"/></e>
     <e lm="Maina"><par n="initial-M"/><i>aina</i><par n="Añjela__np"/></e>
     <e lm="Maïna"><par n="initial-M"/><i>aïna</i><par n="Añjela__np"/></e>
     <e lm="Maiwenn"><par n="initial-M"/><i>aiwenn</i><par n="Añjela__np"/></e>
@@ -19143,17 +19187,23 @@
     <e lm="Michèle"><par n="initial-M"/><i>ichèle</i><par n="Añjela__np"/></e>
     <e lm="Midoriko"><par n="initial-M"/><i>idoriko</i><par n="Añjela__np"/></e>
     <e lm="Mona"><par n="initial-M"/><i>ona</i><par n="Añjela__np"/></e>
+	<e lm="Monika"><par n="initial-M"/><i>onika</i><par n="Añjela__np"/></e>
+	<e lm="Monique"><par n="initial-M"/><i>onique</i><par n="Añjela__np"/></e>
 	<e lm="Morgana"><par n="initial-M"/><i>organa</i><par n="Añjela__np"/></e>
 	<e lm="Morgane"><par n="initial-M"/><i>organe</i><par n="Añjela__np"/></e>
+	<e lm="Morwenna"><par n="initial-M"/><i>orwenna</i><par n="Añjela__np"/></e>
 	<e lm="Nadège"><i>Nadège</i><par n="Añjela__np"/></e>
 	<e lm="Nadine"><i>Nadine</i><par n="Añjela__np"/></e>
 	<e lm="Naig"><i>Naig</i><par n="Añjela__np"/></e>
 	<e lm="Nathalie"><i>Nathalie</i><par n="Añjela__np"/></e>
     <e lm="Nelly"><i>Nelly</i><par n="Añjela__np"/></e>
     <e lm="Nicole"><i>Nicole</i><par n="Añjela__np"/></e>
-    <e lm="Ninnog"><i>Ninnog</i><par n="Añjela__np"/></e>
+	<e lm="Nina"><i>Nina</i><par n="Añjela__np"/></e>
+	<e lm="Ninnog"><i>Ninnog</i><par n="Añjela__np"/></e>
+    <e lm="Ninon"><i>Ninon</i><par n="Añjela__np"/></e>
     <e lm="Nolwenn"><i>Nolwenn</i><par n="Añjela__np"/></e>
     <e lm="Nonn"><i>Nonn</i><par n="Añjela__np"/></e>
+	<e lm="Nora"><i>Nora</i><par n="Añjela__np"/></e>
     <e lm="Odile"><i>Odile</i><par n="Añjela__np"/></e>
     <e lm="Olivia"><i>Olivia</i><par n="Añjela__np"/></e>
     <e lm="Olwen"><i>Olwen</i><par n="Añjela__np"/></e>
@@ -19166,6 +19216,7 @@
     <e lm="Riwanon"><i>Riwanon</i><par n="Añjela__np"/></e>
     <e lm="Romane"><i>Romane</i><par n="Añjela__np"/></e>
     <e lm="Rosa"><i>Rosa</i><par n="Añjela__np"/></e>
+	<e lm="Rose"><i>Rose</i><par n="Añjela__np"/></e>
     <e lm="Rosalie"><i>Rosalie</i><par n="Añjela__np"/></e>
     <e lm="Rozenn"><i>Rozenn</i><par n="Añjela__np"/></e>
     <e lm="Sabrina"><i>Sabrina</i><par n="Añjela__np"/></e>
@@ -19184,17 +19235,21 @@
     <e lm="Silvi"><i>Silvi</i><par n="Añjela__np"/></e>
     <e lm="Soaz"><i>Soaz</i><par n="Añjela__np"/></e>
     <e lm="Soazig"><i>Soazig</i><par n="Añjela__np"/></e>
+    <e lm="Soizic"><i>Soizic</i><par n="Añjela__np"/></e>
     <e lm="Sofi"><i>Sofi</i><par n="Añjela__np"/></e>
+    <e lm="Sofia"><i>Sofia</i><par n="Añjela__np"/></e>
     <e lm="Solange"><i>Solange</i><par n="Añjela__np"/></e>
     <e lm="Solen"><i>Solen</i><par n="Añjela__np"/></e>
     <e lm="Solenn"><i>Solenn</i><par n="Añjela__np"/></e>
     <e lm="Sonia"><i>Sonia</i><par n="Añjela__np"/></e>
+    <e lm="Sophia"><i>Sophia</i><par n="Añjela__np"/></e>
     <e lm="Sophie"><i>Sophie</i><par n="Añjela__np"/></e>
     <e lm="Stéphanie"><i>Stéphanie</i><par n="Añjela__np"/></e>	
     <e lm="Sylviane"><i>Sylviane</i><par n="Añjela__np"/></e>	
     <e lm="Sylvie"><i>Sylvie</i><par n="Añjela__np"/></e>	
     <e lm="Tereza"><par n="initial-T"/><i>ereza</i><par n="Añjela__np"/></e>
     <e lm="Valérie"><i>Valérie</i><par n="Añjela__np"/></e>	
+    <e lm="Vanessa"><i>Vanessa</i><par n="Añjela__np"/></e>	
     <e lm="Véronique"><i>Véronique</i><par n="Añjela__np"/></e>	
     <e lm="Virginie"><i>Virginie</i><par n="Añjela__np"/></e>	
 	<e lm="Viviana"><i>Viviana</i><par n="Añjela__np"/></e>
@@ -19203,12 +19258,14 @@
 	<e lm="Youna"><i>Youna</i><par n="Añjela__np"/></e>	
 	<e lm="Yuna"><i>Yuna</i><par n="Añjela__np"/></e>	
 	
+    <e lm="Aaron"><i>Aaron</i><par n="Yann__np"/></e>	
     <e lm="Abdel"><i>Abdel</i><par n="Yann__np"/></e>	
     <e lm="Abdelmalek"><i>Abdelmalek</i><par n="Yann__np"/></e>	
     <e lm="Abdelmalik"><i>Abdelmalik</i><par n="Yann__np"/></e>		
     <e lm="Abel"><i>Abel</i><par n="Yann__np"/></e>
     <e lm="Abeozen"><i>Abeozen</i><par n="Yann__np"/></e>	
     <e lm="Abraham"><i>Abraham</i><par n="Yann__np"/></e>
+    <e lm="Adam"><i>Adam</i><par n="Yann__np"/></e>
     <e lm="Adrian"><i>Adrian</i><par n="Yann__np"/></e>
     <e lm="Adrien"><i>Adrien</i><par n="Yann__np"/></e>
     <e lm="Ahmad"><i>Ahmad</i><par n="Yann__np"/></e>
@@ -19225,7 +19282,10 @@
     <e lm="Alex"><i>Alex</i><par n="Yann__np"/></e>
     <e lm="Alexandre"><i>Alexandre</i><par n="Yann__np"/></e>
     <e lm="Alexandro"><i>Alexandro</i><par n="Yann__np"/></e>
+	<e lm="Alexis"><i>Alexis</i><par n="Yann__np"/></e>
     <e lm="Alonzo"><i>Alonzo</i><par n="Yann__np"/></e>
+    <e lm="Anatol"><i>Anatol</i><par n="Yann__np"/></e>
+    <e lm="Anatole"><i>Anatole</i><par n="Yann__np"/></e>
     <e lm="André"><i>André</i><par n="Yann__np"/></e>
     <e lm="Andrev"><i>Andrev</i><par n="Yann__np"/></e>
     <e lm="Andrew"><i>Andrew</i><par n="Yann__np"/></e>
@@ -19254,6 +19314,7 @@
     <e lm="Attila"><i>Attila</i><par n="Yann__np"/></e>
     <e lm="Auregan"><i>Auregan</i><par n="Yann__np"/></e>
     <e lm="Aurélien"><i>Aurélien</i><par n="Yann__np"/></e>
+    <e lm="Baptiste"><par n="initial-B"/><i>aptiste</i><par n="Yann__np"/></e>
     <e lm="Ben"><par n="initial-B"/><i>en</i><par n="Yann__np"/></e>
     <e lm="Benead"><par n="initial-B"/><i>enead</i><par n="Yann__np"/></e>
     <e lm="Benead XVI"><par n="initial-B"/><i>enead<b/>XVI</i><par n="Yann__np"/></e>	
@@ -19274,6 +19335,7 @@
     <e lm="Carl"><i>Carl</i><par n="Yann__np"/></e>
     <e lm="Carlos"><i>Carlos</i><par n="Yann__np"/></e>
     <e lm="Cedric"><i>Cedric</i><par n="Yann__np"/></e>
+    <e lm="Cédric"><i>Cédric</i><par n="Yann__np"/></e>
     <e lm="Charles"><i>Charles</i><par n="Yann__np"/></e>
     <e lm="Charlez"><i>Charlez</i><par n="Yann__np"/></e>
     <e lm="Charlez ar Gall"><i>Charlez<b/>ar<b/>Gall</i><par n="Yann__np"/></e>
@@ -19283,6 +19345,7 @@
 	<e lm="Claude"><i>Claude</i><par n="Yann__np"/></e>
 	<e lm="Clément"><i>Clément</i><par n="Yann__np"/></e>
 	<e lm="Clovis"><i>Clovis</i><par n="Yann__np"/></e>
+	<e lm="Colin"><i>Colin</i><par n="Yann__np"/></e>
 	<e lm="Corentin"><i>Corentin</i><par n="Yann__np"/></e>
 	<e lm="Cyril"><i>Cyril</i><par n="Yann__np"/></e>
     <e lm="Daniel"><par n="initial-D"/><i>aniel</i><par n="Yann__np"/></e>
@@ -19300,14 +19363,19 @@
     <e lm="Donatien"><par n="initial-D"/><i>onatien</i><par n="Yann__np"/></e>
     <e lm="Drian"><par n="initial-D"/><i>rian</i><par n="Yann__np"/></e>
     <e lm="Eddy"><i>Eddy</i><par n="Yann__np"/></e>
+    <e lm="Edgar"><i>Edgar</i><par n="Yann__np"/></e>
     <e lm="Edmond"><i>Edmond</i><par n="Yann__np"/></e>
     <e lm="Edouard"><i>Edouard</i><par n="Yann__np"/></e>
     <e lm="Eli"><i>Eli</i><par n="Yann__np"/></e>
+	<e lm="Elouan"><i>Elouan</i><par n="Yann__np"/></e>
+	<e lm="Elvis"><i>Elvis</i><par n="Yann__np"/></e>
     <e lm="Emil"><i>Emil</i><par n="Yann__np"/></e>
     <e lm="Emile"><i>Emile</i><par n="Yann__np"/></e>
     <e lm="Émile"><i>Émile</i><par n="Yann__np"/></e>
     <e lm="Emmanuel"><i>Emmanuel</i><par n="Yann__np"/></e>
     <e lm="Eric"><i>Eric</i><par n="Yann__np"/></e>
+    <e lm="Éric"><i>Éric</i><par n="Yann__np"/></e>
+    <e lm="Erik"><i>Erik</i><par n="Yann__np"/></e>
     <e lm="Erle"><i>Erle</i><par n="Yann__np"/></e>
     <e lm="Ervlan"><i>Ervlan</i><par n="Yann__np"/></e>
     <e lm="Erwan"><i>Erwan</i><par n="Yann__np"/></e>
@@ -19358,11 +19426,14 @@
     <e lm="Guillaume"><par n="initial-G"/><i>uillaume</i><par n="Yann__np"/></e>
     <e lm="Guinglaff"><par n="initial-G"/><i>uinglaff</i><par n="Yann__np"/></e>
     <e lm="Gurvan"><par n="initial-G"/><i>urvan</i><par n="Yann__np"/></e>
+	<e lm="Gustav"><par n="initial-G"/><i>ustav</i><par n="Yann__np"/></e>
+	<e lm="Gustave"><par n="initial-G"/><i>ustave</i><par n="Yann__np"/></e>
     <e lm="Guy"><par n="initial-G"/><i>uy</i><par n="Yann__np"/></e>
     <e lm="Gweltaz"><par n="initial-Gw"/><i>eltaz</i><par n="Yann__np"/></e>
     <e lm="Gwenael"><par n="initial-Gw"/><i>enael</i><par n="Yann__np"/></e>
     <e lm="Gwenaël"><par n="initial-Gw"/><i>enaël</i><par n="Yann__np"/></e>
     <e lm="Gwendal"><par n="initial-Gw"/><i>endal</i><par n="Yann__np"/></e>
+	<e lm="Gwenegan"><par n="initial-Gw"/><i>enegan</i><par n="Yann__np"/></e>
     <e lm="Gwenn-Ael"><par n="initial-Gw"/><i>enn-Ael</i><par n="Yann__np"/></e>
     <e lm="Gwenole"><par n="initial-Gw"/><i>enole</i><par n="Yann__np"/></e>
     <e lm="Gwennole"><par n="initial-Gw"/><i>ennole</i><par n="Yann__np"/></e>
@@ -19408,6 +19479,7 @@
     <e lm="Jerom"><i>Jerom</i><par n="Yann__np"/></e>	
     <e lm="Jérôme"><i>Jérôme</i><par n="Yann__np"/></e>
     <e lm="Jezuz"><i>Jezuz</i><par n="Yann__np"/></e>
+	<e lm="Jezus"><i>Jezus</i><par n="Yann__np"/></e>
 	<e lm="Jilez"><i>Jilez</i><par n="Yann__np"/></e>
 	<e lm="Jili"><i>Jili</i><par n="Yann__np"/></e>
     <e lm="Jo"><i>Jo</i><par n="Yann__np"/></e>	
@@ -19418,6 +19490,7 @@
     <e lm="Jonas"><i>Jonas</i><par n="Yann__np"/></e>
     <e lm="Jonathan"><i>Jonathan</i><par n="Yann__np"/></e>
     <e lm="Jord"><i>Jord</i><par n="Yann__np"/></e>
+	<e lm="Jordan"><i>Jordan</i><par n="Yann__np"/></e>
     <e lm="Jorj"><i>Jorj</i><par n="Yann__np"/></e>
     <e lm="Jos"><i>Jos</i><par n="Yann__np"/></e>
 	<e lm="Joseph"><i>Joseph</i><par n="Yann__np"/></e>
@@ -19476,6 +19549,7 @@
     <e lm="Lukian"><i>Lukian</i><par n="Yann__np"/></e>
     <e lm="Lus"><i>Lus</i><par n="Yann__np"/></e>
     <e lm="Mael"><par n="initial-M"/><i>ael</i><par n="Yann__np"/></e>
+    <e lm="Maël"><par n="initial-M"/><i>aël</i><par n="Yann__np"/></e>
     <e lm="Maelan"><par n="initial-M"/><i>aelan</i><par n="Yann__np"/></e>
     <e lm="Maelgwn"><par n="initial-M"/><i>aelgwn</i><par n="Yann__np"/></e>
     <e lm="Malo"><par n="initial-M"/><i>alo</i><par n="Yann__np"/></e>
@@ -19536,6 +19610,7 @@
     <e lm="Paolig"><par n="initial-P"/><i>aolig</i><par n="Yann__np"/></e>
 	<e lm="Pascal"><par n="initial-P"/><i>ascal</i><par n="Yann__np"/></e>
 	<e lm="Paskal"><par n="initial-P"/><i>askal</i><par n="Yann__np"/></e>
+    <e lm="Patrice"><par n="initial-P"/><i>atrice</i><par n="Yann__np"/></e>
     <e lm="Patrick"><par n="initial-P"/><i>atrick</i><par n="Yann__np"/></e>
     <e lm="Patrig"><par n="initial-P"/><i>atrig</i><par n="Yann__np"/></e>
     <e lm="Paul"><par n="initial-P"/><i>aul</i><par n="Yann__np"/></e>
@@ -19551,6 +19626,7 @@
     <e lm="Pierrot"><par n="initial-P"/><i>ierrot</i><par n="Yann__np"/></e>
     <e lm="Platon"><par n="initial-P"/><i>laton</i><par n="Yann__np"/></e>
     <e lm="Pontkalleg"><par n="initial-P"/><i>ontkalleg</i><par n="Yann__np"/></e>
+    <e lm="Quentin"><i>Quentin</i><par n="Yann__np"/></e>
 	<e lm="Rafael"><i>Rafael</i><par n="Yann__np"/></e>
     <e lm="Raymond"><i>Raymond</i><par n="Yann__np"/></e>
 	<e lm="Régis"><i>Régis</i><par n="Yann__np"/></e>
@@ -19615,6 +19691,7 @@
     <e lm="Tudual"><par n="initial-T"/><i>udual</i><par n="Yann__np"/></e>
     <e lm="Tudwal"><par n="initial-T"/><i>udwal</i><par n="Yann__np"/></e>
     <e lm="Tugdual"><par n="initial-T"/><i>ugdual</i><par n="Yann__np"/></e>
+    <e lm="Ulysse"><i>Ulysse</i><par n="Yann__np"/></e>	
     <e lm="Valentin"><i>Valentin</i><par n="Yann__np"/></e>	
     <e lm="Veig"><i>Veig</i><par n="Yann__np"/></e>	
     <e lm="Vick"><i>Vick</i><par n="Yann__np"/></e>	
@@ -19682,6 +19759,7 @@
     <e lm="Begog"><par n="initial-B"/><i>egog</i><par n="Calloc’h__np"/></e>	
     <e lm="Belbeoc’h"><par n="initial-B"/><i>elbeoc’h</i><par n="Calloc’h__np"/></e>	
     <e lm="Bénard"><par n="initial-B"/><i>énard</i><par n="Calloc’h__np"/></e>
+    <e lm="Besnard"><par n="initial-B"/><i>esnard</i><par n="Calloc’h__np"/></e>
     <e lm="Besov"><par n="initial-B"/><i>esov</i><par n="Calloc’h__np"/></e>
     <e lm="Bijer"><par n="initial-B"/><i>ijer</i><par n="Calloc’h__np"/></e>
     <e lm="Bizien"><par n="initial-B"/><i>izien</i><par n="Calloc’h__np"/></e>
@@ -19758,7 +19836,7 @@
     <e lm="Gars"><par n="initial-G"/><i>ars</i><par n="Calloc’h__np"/></e>
     <e lm="Gauguin"><par n="initial-G"/><i>auguin</i><par n="Calloc’h__np"/></e>
     <e lm="Gautier"><par n="initial-G"/><i>autier</i><par n="Calloc’h__np"/></e>
-    <e lm="Giraudon"><i>Giraudon</i><par n="Calloc’h__np"/></e>
+    <e lm="Giraudon"><par n="initial-G"/><i>Giraudon</i><par n="Calloc’h__np"/></e>
     <e lm="Goasguen"><par n="initial-G"/><i>oasguen</i><par n="Calloc’h__np"/></e>
     <e lm="Gonidec"><par n="initial-G"/><i>onidec</i><par n="Calloc’h__np"/></e>
     <e lm="Gonideg"><par n="initial-G"/><i>onideg</i><par n="Calloc’h__np"/></e>	
@@ -19893,6 +19971,7 @@
     <e lm="Mamère"><par n="initial-M"/><i>amère</i><par n="Calloc’h__np"/></e>
     <e lm="Mamin"><par n="initial-M"/><i>amin</i><par n="Calloc’h__np"/></e>
     <e lm="Marceau"><par n="initial-M"/><i>arceau</i><par n="Calloc’h__np"/></e>	
+    <e lm="Marchand"><par n="initial-M"/><i>archand</i><par n="Calloc’h__np"/></e>	
     <e lm="Marx"><par n="initial-M"/><i>arx</i><par n="Calloc’h__np"/></e>	
     <e lm="Malrieu"><par n="initial-M"/><i>alrieu</i><par n="Calloc’h__np"/></e>	
     <e lm="Masson"><par n="initial-M"/><i>asson</i><par n="Calloc’h__np"/></e>	
@@ -19952,6 +20031,7 @@
     <e lm="Rodier"><i>Rodier</i><par n="Calloc’h__np"/></e>	
     <e lm="Rogemont"><i>Rogemont</i><par n="Calloc’h__np"/></e>	
     <e lm="Rolland"><i>Rolland</i><par n="Calloc’h__np"/></e>	
+    <e lm="Ropars"><i>Ropars</i><par n="Calloc’h__np"/></e>	
     <e lm="Roue"><i>Roue</i><par n="Calloc’h__np"/></e>	
     <e lm="Roué"><i>Roué</i><par n="Calloc’h__np"/></e>		
     <e lm="Rousseau"><i>Rousseau</i><par n="Calloc’h__np"/></e>		
@@ -19974,7 +20054,8 @@
     <e lm="Stivell"><i>Stivell</i><par n="Calloc’h__np"/></e>
     <e lm="Streiff"><i>Streiff</i><par n="Calloc’h__np"/></e>
     <e lm="Suignard"><i>Suignard</i><par n="Calloc’h__np"/></e>	
-    <e lm="Supiot"><i>Supiot</i><par n="Calloc’h__np"/></e>	
+    <e lm="Supiot"><i>Supiot</i><par n="Calloc’h__np"/></e>
+	<e lm="Tabarly"><par n="initial-T"/><i>abarly</i><par n="Calloc’h__np"/></e>
     <e lm="Taleg"><par n="initial-T"/><i>aleg</i><par n="Calloc’h__np"/></e>
     <e lm="Tallec"><par n="initial-T"/><i>allec</i><par n="Calloc’h__np"/></e>
     <e lm="Thomin"><par n="initial-T"/><i>homin</i><par n="Calloc’h__np"/></e>
@@ -20025,6 +20106,7 @@
     <e lm="Bremañ"><par n="initial-B"/><i>remañ</i><par n="Wikipedia__np"/></e>
     <e lm="Brezhoweb"><par n="initial-B"/><i>rezhoweb</i><par n="Wikipedia__np"/></e>
     <e lm="Brudañ ha Skignañ"><par n="initial-B"/><i>rudañ<b/>ha<b/>Skignañ</i><par n="Wikipedia__np"/></e>
+	<e lm="Breizh Unvan"><i>Breizh<b/>Unvan</i><par n="Wikipedia__np"/></e>	
     <e lm="Brud Nevez"><i>Brud<b/>Nevez</i><par n="Wikipedia__np"/></e>	
     <e lm="Buez ar Zent"><par n="initial-B"/><i>uez<b/>ar<b/>Zent</i><par n="Wikipedia__np"/></e>
     <e lm="Buhez ar Sent"><par n="initial-B"/><i>uhez<b/>ar<b/>Sent</i><par n="Wikipedia__np"/></e>
@@ -20049,6 +20131,7 @@
     <e lm="Diwan Breizh"><par n="initial-D"/><i>iwan<b/>Breizh</i><par n="Wikipedia__np"/></e>
     <e lm="Dizale"><par n="initial-D"/><i>izale</i><par n="Wikipedia__np"/></e>
     <e lm="Dudi Kreiz Treger"><par n="initial-D"/><i>udi<b/>Kreiz<b/>Treger</i><par n="Wikipedia__np"/></e>
+	<e lm="Edubreizh"><i>Edubreizh</i><par n="Wikipedia__np"/></e>
     <e lm="Emgann"><i>Emgann</i><par n="Wikipedia__np"/></e>
     <e lm="Emgleo Breiz"><i>Emgleo<b/>Breiz</i><par n="Wikipedia__np"/></e>	
     <e lm="Emvod ar Gelted"><i>Emvod<b/>ar<b/>Gelted</i><par n="Wikipedia__np"/></e>
@@ -20057,6 +20140,7 @@
     <e lm="Facebook"><i>Facebook</i><par n="Wikipedia__np"/></e>
     <e lm="facebook" r="LR"><i>facebook</i><par n="Wikipedia__np"/></e>
     <e lm="Feiz ha Breiz"><i>Feiz<b/>ha<b/>Breiz</i><par n="Wikipedia__np"/></e>
+    <e lm="Figaro"><i>Figaro</i><par n="Wikipedia__np"/></e>
     <e lm="Firefox"><i>Firefox</i><par n="Wikipedia__np"/></e>
     <e lm="France Bleu"><i>France<b/>Bleu</i><par n="Wikipedia__np"/></e>
     <e lm="France Bleu Breizh Izel"><i>France<b/>Bleu<b/>Breizh<b/>Izel</i><par n="Wikipedia__np"/></e>
@@ -20149,6 +20233,7 @@
     <e lm="Twitter"><i>Twitter</i><par n="Wikipedia__np"/></e>
     <e lm="Ubapar"><i>Ubapar</i><par n="Wikipedia__np"/></e>
     <e lm="Unicode"><i>Unicode</i><par n="Wikipedia__np"/></e>
+    <e lm="Vendée Globe"><i>Vendée<b/>Globe</i><par n="Wikipedia__np"/></e>
     <e lm="Webnoz"><i>Webnoz</i><par n="Wikipedia__np"/></e>	
     <e lm="Wikeriadur"><i>Wikeriadur</i><par n="Wikipedia__np"/></e>
     <e lm="Wikimammenn"><i>Wikimammenn</i><par n="Wikipedia__np"/></e>
@@ -20159,6 +20244,7 @@
     <e lm="Word"><i>Word</i><par n="Wikipedia__np"/></e>
     <e lm="Ya d’ar Brezhoneg"><i>Ya<b/>d’ar<b/>Brezhoneg</i><par n="Wikipedia__np"/></e>
     <e lm="Yad Vashem"><i>Yad<b/>Vashem</i><par n="Wikipedia__np"/></e>
+	<e lm="Youtube"><i>Youtube</i><par n="Wikipedia__np"/></e>
     <e lm="Yprema"><i>Yprema</i><par n="Wikipedia__np"/></e>
 
     <!-- Anvioù divoutin gourel implijet gant ur ger-mell - Masculine proper nouns used with article-->
@@ -20236,6 +20322,7 @@
     <e lm="anfurmel"><i>anfurmel</i><par n="bras__adj"/></e>
     <e lm="angolat"><i>angolat</i><par n="bras__adj"/></e>
     <e lm="anguillat"><i>anguillat</i><par n="bras__adj"/></e>
+	<e lm="annezus"><i>annezus</i><par n="bras__adj"/></e>
     <e lm="antarktikat" r="LR"><i>antarktikat</i><par n="bras__adj"/></e>
     <e lm="anterin"><i>anterin</i><par n="bras__adj"/></e>
     <e lm="antiguat"><i>antiguat</i><par n="bras__adj"/></e>
@@ -21246,6 +21333,7 @@
     <e lm="qatarat"><i>qatarat</i><par n="bras__adj"/></e>
     <e lm="ral"><i>ral</i><par n="bras__adj"/></e>
     <e lm="ramzel"><i>ramzel</i><par n="bras__adj"/></e>
+	<e lm="randonus"><i>randonus</i><par n="bras__adj"/></e>
     <e lm="ranell"><i>ranell</i><par n="bras__adj"/></e>
     <e lm="rannadus"><i>rannadus</i><par n="bras__adj"/></e>
     <e lm="rannvroel"><i>rannvroel</i><par n="bras__adj"/></e>
@@ -21274,6 +21362,7 @@
     <e lm="roc’hek"><i>roc’hek</i><par n="bras__adj"/></e>
     <e lm="roc’hellek"><i>roc’hellek</i><par n="bras__adj"/></e>
     <e lm="rodellek"><i>rodellek</i><par n="bras__adj"/></e>
+    <e lm="rok"><i>rok</i><par n="bras__adj"/></e>
     <e lm="roman"><i>roman</i><par n="bras__adj"/></e>
     <e lm="romanek"><i>romanek</i><par n="bras__adj"/></e>	
     <e lm="romantel"><i>romantel</i><par n="bras__adj"/></e>
@@ -21396,6 +21485,7 @@
     <e lm="startijennek"><i>startijennek</i><par n="bras__adj"/></e>
     <e lm="statutel"><i>statutel</i><par n="bras__adj"/></e>
     <e lm="stegn"><i>stegn</i><par n="bras__adj"/></e>
+    <e lm="steredennus"><i>steredennus</i><par n="bras__adj"/></e>
     <e lm="stlenn"><i>stlenn</i><par n="bras__adj"/></e>
     <e lm="stok"><i>stok</i><par n="bras__adj"/></e>
     <e lm="stouet"><i>stouet</i><par n="bras__adj"/></e>
@@ -23418,17 +23508,22 @@
     <e lm="gelver" r="LR"><par n="initial-g"/><i></i><par n="g/elver__vblex"/></e>
 	
     <e lm="herzel"><i>h</i><par n="h/erzel__vblex"/></e>
+
     <e lm="kleñvel"><par n="initial-k"/><i>l</i><par n="kl/eñvel__vblex"/></e>
+
     <e lm="menel"><par n="initial-m"/><i></i><par n="m/enel__vblex"/></e>
     <e lm="mervel"><par n="initial-m"/><i></i><par n="m/ervel__vblex"/></e>
+
     <e lm="dilemel"><par n="initial-d"/><i>il</i><par n="l/emel__vblex"/></e>
     <e lm="lemel"><i>l</i><par n="l/emel__vblex"/></e>
     <e lm="lemel kuit"><i>l</i><par n="l/emel__vblex"/><p><l><b/>kuit</l><r><g><b/>kuit</g></r></p></e>
     <e lm="lemel a ober kuit"><i>lemel<b/>a<b/></i><par n="/ober__vblex"/><p><l><b/>kuit</l><r><g><b/>kuit</g></r></p></e>	
 
+    <e lm="leskel"><i>l</i><par n="l/euskel__vblex"/></e> 	
     <e lm="leuskel"><i>l</i><par n="l/euskel__vblex"/></e>   
     <e lm="dileuskel" r="LR"><par n="initial-d"/><i>il</i><par n="l/euskel__vblex"/></e>
-     <e lm="stlepel"><i>stl</i><par n="stl/epel__vblex"/></e>
+
+    <e lm="stlepel"><i>stl</i><par n="stl/epel__vblex"/></e>
  
     <e lm="adsevel"><i>ads</i><par n="s/evel__vblex"/></e>
 	<e lm="desevel"><par n="initial-d"/><i>es</i><par n="s/evel__vblex"/></e>
@@ -23452,7 +23547,6 @@
     <e lm="sevel a ober rakprizioù"><i>sevel<b/>a<b/></i><par n="/ober__vblex"/><p><l><b/>rakprizioù</l><r><g><b/>rakprizioù</g></r></p></e>	
     <e lm="sevel ti"><i>s</i><par n="s/evel__vblex"/><p><l><b/>ti</l><r><g><b/>ti</g></r></p></e>
     <e lm="sevel a ober ti"><i>sevel<b/>a<b/></i><par n="/ober__vblex"/><p><l><b/>ti</l><r><g><b/>ti</g></r></p></e>	
-
 	<e lm="tevel"><par n="initial-t"/><i></i><par n="s/evel__vblex"/></e>
 	
 	<e lm="dilezel"><par n="initial-d"/><i>ilez</i><par n="lez/el__vblex"/></e>
@@ -23585,6 +23679,7 @@
 	<e lm="farsal"><i>fars</i><par n="soñj/al__vblex"/></e>
 	<e lm="fiñval"><i>fiñv</i><par n="soñj/al__vblex"/></e>
 	<e lm="fraoñval"><i>fraoñv</i><par n="soñj/al__vblex"/></e>
+	<e lm="frifurchal"><i>frifurch</i><par n="soñj/al__vblex"/></e>
 	<e lm="fringal"><i>fring</i><par n="soñj/al__vblex"/></e>
 	<e lm="furchal"><i>furch</i><par n="soñj/al__vblex"/></e>
 	<e lm="gedal"><par n="initial-g"/><i>ed</i><par n="soñj/al__vblex"/></e>
@@ -23873,6 +23968,7 @@
     <e lm="dougen bri da" r="LR"><p><l>bri<b/></l><r/></p><par n="initial-d"/><i>oug</i><par n="doug/en__vblex"/><p><l><b/>da</l><r><g><b/>bri<b/>da</g></r></p></e>	
     <e lm="dougen bri da" r="LR"><p><l>bri<b/></l><r/></p><par n="initial-d"/><i>oug</i><par n="doug/en__vblex"/><p><l><b/>d’</l><r><g><b/>bri<b/>da</g></r></p></e>	
     <e lm="dezougen"><par n="initial-d"/><i>ezoug</i><par n="doug/en__vblex"/></e>
+    <e lm="keneren"><par n="initial-k"/><i>enere</i><par n="doug/en__vblex"/></e>
     <e lm="treuzdougen"><par n="initial-t"/><i>reuzdoug</i><par n="doug/en__vblex"/></e>
 
     <e lm="antren"><i>antre</i><par n="kantre/n__vblex"/></e>
@@ -23915,6 +24011,7 @@
 	<e lm="prizoniañ"><par n="initial-p"/><i>rizo</i><par n="ble/niañ__vblex"/></e>
     <e lm="sterniañ"><i>ster</i><par n="ble/niañ__vblex"/></e>	
 	<e lm="toniañ"><par n="initial-t"/><i>o</i><par n="ble/niañ__vblex"/></e>
+	<e lm="turiañ"><par n="initial-t"/><i>ur</i><par n="ble/niañ__vblex"/></e>
 
 	<e lm="adstaliañ"><i>adsta</i><par n="sta/liañ__vblex"/></e>	
     <e lm="diskuliañ"><par n="initial-d"/><i>isku</i><par n="sta/liañ__vblex"/></e>
@@ -23961,6 +24058,7 @@
     <e lm="ameilañ"><i>ameil</i><par n="had/añ__vblex"/></e>
     <e lm="ampellañ"><i>ampell</i><par n="had/añ__vblex"/></e>
     <e lm="amprestañ"><i>amprest</i><par n="had/añ__vblex"/></e>
+	<e lm="amzeriañ"><i>amprest</i><par n="had/añ__vblex"/></e>
     <e lm="analañ"><i>anal</i><par n="had/añ__vblex"/></e>
     <e lm="analizañ" r="LR"><i>analiz</i><par n="had/añ__vblex"/></e>
     <e lm="annezañ"><i>annez</i><par n="had/añ__vblex"/></e>
@@ -24247,6 +24345,7 @@
     <e lm="ispisializañ"><i>ispisializ</i><par n="had/añ__vblex"/></e>
     <e lm="istitlañ"><i>istitl</i><par n="had/añ__vblex"/></e>	
     <e lm="isurzhiañ"><i>isurzhi</i><par n="had/añ__vblex"/></e>
+    <e lm="jahinañ"><i>jahin</i><par n="had/añ__vblex"/></e>	
     <e lm="jaojañ"><i>jaoj</i><par n="had/añ__vblex"/></e>	
     <e lm="kablusañ"><par n="initial-k"/><i>ablus</i><par n="had/añ__vblex"/></e>	
     <e lm="kaeañ"><par n="initial-k"/><i>ae</i><par n="had/añ__vblex"/></e>	
@@ -24672,6 +24771,7 @@
     <e lm="dizesperiñ"><par n="initial-d"/><i>izesper</i><par n="debr/iñ__vblex"/></e>
     <e lm="dizimeziñ"><par n="initial-d"/><i>izimez</i><par n="debr/iñ__vblex"/></e>
     <e lm="dizoloiñ" r="LR"><par n="initial-d"/><i>izolo</i><par n="debr/iñ__vblex"/></e>
+	<e lm="dorloiñ"><par n="initial-d"/><i>orlo</i><par n="debr/iñ__vblex"/></e>
 	<e lm="dozviñ"><par n="initial-d"/><i>ozv</i><par n="debr/iñ__vblex"/></e>
 	<e lm="drouksantiñ"><par n="initial-d"/><i>rouksant</i><par n="debr/iñ__vblex"/></e>
     <e lm="ebarzhiñ"><i>ebarzh</i><par n="debr/iñ__vblex"/></e>
@@ -24805,6 +24905,7 @@
     <e lm="niveriñ"><i>niver</i><par n="debr/iñ__vblex"/></e>
     <e lm="ogediñ"><i>oged</i><par n="debr/iñ__vblex"/></e>
     <e lm="okupiñ" r="LR"><i>okup</i><par n="debr/iñ__vblex"/></e>
+    <e lm="palforsiñ"><par n="initial-p"/><i>alfors</i><par n="debr/iñ__vblex"/></e>
     <e lm="paramantiñ"><par n="initial-p"/><i>aramant</i><par n="debr/iñ__vblex"/></e>
     <e lm="pardoniñ"><par n="initial-p"/><i>ardon</i><par n="debr/iñ__vblex"/></e>
     <e lm="pasiñ" r="LR"><par n="initial-p"/><i>as</i><par n="debr/iñ__vblex"/></e>
@@ -24885,9 +24986,9 @@
     <e lm="adkeltiekaat"><i>adkeltieka</i><par n="laka/at__vblex"/></e>
     <e lm="adlakaat"><i>adlaka</i><par n="laka/at__vblex"/></e>
     <e lm="adlec’helaat"><i>adlec’hela</i><par n="laka/at__vblex"/></e>
-    <e lm="aesaat"><i>aesa</i><par n="laka/at__vblex"/></e>
-    <e lm="adlakaat"><i>adlaka</i><par n="laka/at__vblex"/></e>
+    <e lm="adnevesaat"><i>adnevesaat</i><par n="laka/at__vblex"/></e>
     <e lm="advrezhonekaat"><i>advrezhoneka</i><par n="laka/at__vblex"/></e>
+	<e lm="aesaat"><i>aesa</i><par n="laka/at__vblex"/></e>
     <e lm="ankouaat"><i>ankoua</i><par n="laka/at__vblex"/></e>	
     <e lm="ankounac’haat"><i>ankounac’ha</i><par n="laka/at__vblex"/></e>	
     <e lm="arbennikaat"><i>arbennika</i><par n="laka/at__vblex"/></e>	
@@ -24938,6 +25039,7 @@
     <e lm="gwashaat"><par n="initial-gw"/><i>asha</i><par n="laka/at__vblex"/></e>      
 	<e lm="gwellaat"><par n="initial-gw"/><i>ella</i><par n="laka/at__vblex"/></e>
 	<e lm="gweredekaat"><par n="initial-gw"/><i>eredeka</i><par n="laka/at__vblex"/></e>
+	<e lm="gwiriekaat"><par n="initial-gw"/><i>iriekaat</i><par n="laka/at__vblex"/></e>
 	<e lm="habaskaat"><i>habaska</i><par n="laka/at__vblex"/></e>
     <e lm="hiraat"><i>hira</i><par n="laka/at__vblex"/></e>
     <e lm="hizivaat"><i>hiziva</i><par n="laka/at__vblex"/></e>
@@ -25740,31 +25842,16 @@
     </e>
 -->
 
-
   </section>
 
   <section id="final" type="inconditional">
-    <e>
-      <par n="horas"/> <!-- Horas -->
-    </e>
-    <e>
-      <par n="anys"/> <!-- Anys -->
-    </e>
-    <e>
-      <par n="fechas"/> <!-- Fechas -->
-    </e>
-    <e>
-      <par n="numeros"/> <!-- Numbers -->
-    </e>
-    <e>
-      <par n="acronimos"/> <!-- Acronyms -->
-    </e>
-    <e>
-      <par n="separa"/> <!-- End of sentence -->
-    </e>
-    <e>
-      <par n="emails"/>
-    </e>
+    <e><par n="horas"/></e> <!-- Horas -->
+    <e><par n="anys"/></e> <!-- Anys -->
+    <e><par n="fechas"/></e> <!-- Fechas -->
+    <e><par n="numeros"/></e> <!-- Numbers -->
+    <e><par n="acronimos"/></e> <!-- Acronyms -->
+    <e><par n="separa"/></e> <!-- End of sentence -->
+    <e><par n="emails"/></e>
     <e><par n="urls"/></e>
     <e><par n="distàncies"/></e>
     <e><par n="personas"/></e>
@@ -25772,5 +25859,4 @@
     <e><par n="coma"/></e>
     <e><par n="apos"/></e>
   </section>
-
 </dictionary>
